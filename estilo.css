@@ -1,0 +1,20 @@
+body {
+    color: violet
+}
+
+header {
+    color: black;
+}
+#paragheader {color: black;}
+#list1 {color: brown;
+        font-family: monospace;
+        font-size: larger;}
+#list2 {color: tomato;
+        font-family: monospace;
+        font-size: larger;}
+#list3 {color: sienna;
+        font-family:cursive;
+        font-size: xx-large;}
+#tabel {color: cadetblue;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: small;}
